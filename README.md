@@ -5,7 +5,7 @@
 
 - I'm working with [Quiz App](https://github.com/falmeida42/Programmer-Quiz)
 
-- 🌱 I’m currently student **at 42 Lisboa :42:**
+- 🌱 I’m currently student **at 42 Lisboa**
 
 - 💬 Ask me about **C and Kotlin**
 
