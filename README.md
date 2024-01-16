@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falmeida42&label=Profile%20views&color=0e75b6&style=flat" alt="falmeida42" /> </p>
 
-- I'm working with [Quiz App](https://github.com/falmeida42/Programmer-Quiz)
+- I'm working in [Quiz App](https://github.com/falmeida42/Programmer-Quiz)
 
 - 🌱 I’m currently student **at 42 Lisboa**
 
